@@ -13,7 +13,6 @@
     
     <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/favicon.ico">
 
-
   </head>
 
   <body>
